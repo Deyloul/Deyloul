@@ -7,5 +7,6 @@ I enjoy sharing valuable insights 🧐 and making an impact that helps others le
 I am always open to discussions, so feel free to ask questions or share concerns 💬.
 
 # Softwares
+Machine Learning 
 Python
 Tableau
