@@ -6,7 +6,7 @@ I work in my free time on data analysis, machine learning, linear algerba and st
 I enjoy sharing valuable insights 🧐 and making an impact that helps others learn. 
 I am always open to discussions, so feel free to ask questions or share concerns 💬.
 
-# Softwares
+# You can contact me about 
 Machine Learning 
 Python
 Tableau
